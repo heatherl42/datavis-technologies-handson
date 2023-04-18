@@ -6,4 +6,4 @@
   }
 </style>
 
-<p>I really like data visualisation!</p>
+<p>I <a style="color:green;">really</a> like data visualisation!</p>
