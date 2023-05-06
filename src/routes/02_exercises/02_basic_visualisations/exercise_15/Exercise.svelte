@@ -8,7 +8,8 @@
   
   <svg {width} {height}>
     <g transform="translate({margin.left}, {margin.top})">
-      <!--  -->
+      <rect x=22.5 y=22.5 width=40 height=40/>
+      <circle cx=52.5 cy=52.5 r=20/>
     </g>
   </svg>
   
@@ -17,5 +18,10 @@
       border: 1px solid black;
       border-radius: 5px;
     }
+    rect {
+      fill: yellow
+    }
+    circle {
+      fill: skyblue
+    }
   </style>
-  
